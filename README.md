@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I am a 14-year old software and app developer based somewhere around the Sierra Nevada. I love writing programs in languages from Python to Flutter. I teach programming and develop curriculums in my spare time. I've been learning how to code since 2017. I write a lot in Python, however I'm also trying to use other languages more. If you'd like to contact me, you can email me at [dirigo112@gmail.com](mailto:dirigo112@gmail.com) or [nielsen.peter.a@icloud.com](mailto:nielsen.peter.a@icloud.com).
 
